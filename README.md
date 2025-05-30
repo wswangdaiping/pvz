@@ -1,0 +1,10 @@
+基于Qt的植物大战僵尸游戏
+图形化页面：
+游戏页面：游戏对战页面按钮，僵尸图鉴按钮，退出功能
+游戏主页面
+僵尸图鉴页面
+植物实现12种，僵尸6种
+植物选择面板
+![8420cd9203a9772678a4cbc2ad1b3a0](https://github.com/user-attachments/assets/5eb402be-e88d-4600-9e56-a7ac89347965)
+![d60f0b9bcfe704076842f32fe3ec6bc](https://github.com/user-attachments/assets/95354504-808b-4a0a-b080-91e0a178b504)
+![5b99ba5be9430eb0dacfccd6da43517](https://github.com/user-attachments/assets/b56af7d5-3fce-456a-9643-fb2384c4ca61)
